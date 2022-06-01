@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hakankuyrukcu
 - 👀 I’m interested in computer programming, game developtment
 - 🌱 I’m currently learning js frameworks
-- 📫 How to reach me hakankuyrukcu@gmail.com or http://hakankuyrukcu.com
+- 📫 How to reach me hakankuyrukcu@gmail.com
 
 <!---
 hakankuyrukcu/hakankuyrukcu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
